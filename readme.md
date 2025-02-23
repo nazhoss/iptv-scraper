@@ -12,6 +12,8 @@
 - ```https://aesport-scraper.vercel.app/aesport```
 ### nizarstream
 - ```https://nizarstream-scraper.vercel.app/nizarstream```
+### streameast
+- ```https://streameast-scraper.vercel.app/streameast```
 ---
 
 ### Recommended Players
